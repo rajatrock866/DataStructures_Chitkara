@@ -1,7 +1,7 @@
 ## DS Library For UCA-4
 #### Branch Created And Maintained By Sahib Singh (1746) <;>
 
-This Repo Cointains 4 Folders Which Cointain Code in respective language
+This Repo Cointains 4 Folders Which Contain Code in respective language
 The Goal for this repo is to Learn Data Structures and Algorythms in depth and deploy them using different languages 
 
 ##### Table Of Contents
